@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://coderRemo.io)
 <h1 align="center">Hi 👋, I'm Sayan Chatterjee</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZueGJ1YzNydGFhcDJjNDVndWs4YWQ4MGZlbWFzcnQ4NnRreGJ6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h6cm5weTIxeGRkMDlpdDY0YWhoNDRmdWphemhtM2x0aG4yc3lqdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderremo&label=Profile%20views&color=0e75b6&style=flat" alt="coderremo" /> </p>
 
