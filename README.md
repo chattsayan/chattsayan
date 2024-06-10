@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/coderRemo](https://github.com/coderRemo)
+- 👨‍💻 All of my projects are available at ([https://github.com/coderRemo](https://github.com/coderRemo?tab=repositories))
 
 - 📫 How to reach me **chatterjeesayan730@gmail.com**
 
