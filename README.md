@@ -29,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderremo&show_icons=true&locale=en&layout=compact" alt="coderremo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderremo&show_icons=true&locale=en" alt="coderremo" /></p>
+
+<img src="https://i.gifer.com/origin/7d/7d1c0015912d9b30038595971af2ad57_w200.gif" alt="wave-gif"/>
