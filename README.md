@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderremo&label=Profile%20views&color=0e75b6&style=flat" alt="coderremo" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at ([https://github.com/coderRemo](https://github.com/coderRemo?tab=repositories))
 
