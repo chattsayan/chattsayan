@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderremo&show_icons=true&locale=en" alt="coderremo" /></p>
 
-<img src="[https://assets.pinterest.com/ext/embed.html?id=378302437454576697](https://i.pinimg.com/originals/1d/73/5a/1d735ad8eee8350adc96d50e1421ee6d.gif)" height="100" width="100%" />
+https://i.pinimg.com/originals/1d/73/5a/1d735ad8eee8350adc96d50e1421ee6d.gif
