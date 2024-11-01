@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderremo&show_icons=true&locale=en" alt="coderremo" /></p>
 
-https://i.pinimg.com/originals/1d/73/5a/1d735ad8eee8350adc96d50e1421ee6d.gif
+![voice wave](https://github.com/user-attachments/assets/408c16a7-7dbb-4fdc-bd1f-ae738034178c)
