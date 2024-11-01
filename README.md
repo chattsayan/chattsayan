@@ -30,5 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderremo&show_icons=true&locale=en" alt="coderremo" /></p>
 
-<img src="https://github.com/user-attachments/assets/408c16a7-7dbb-4fdc-bd1f-ae738034178c" alt="" />
+<img src="https://github.com/user-attachments/assets/408c16a7-7dbb-4fdc-bd1f-ae738034178c" alt="" height="200" width="100%" />
 
