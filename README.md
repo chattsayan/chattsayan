@@ -10,8 +10,8 @@
 - 👨‍💻 Feel free to reach out or check my repositories to see my work! ([https://github.com/coderRemo](https://github.com/coderRemo?tab=repositories))
 - 📫 How to reach me **chatterjeesayan730@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">💻 Tech Stack</h3>
+<p align="center"> 
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/sayan-c07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayan-c07/" height="30" width="40" /></a>
 </p>
 
