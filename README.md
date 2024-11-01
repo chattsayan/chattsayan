@@ -27,7 +27,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
 
-<img src="https://github.com/user-attachments/assets/766c5170-c446-42cc-bd72-cfd526a908c1" width="100%" />
 
 <div align="center">
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=coderremo&show_icons=true&locale=en" alt="coderremo" /></p>
