@@ -20,7 +20,7 @@
 <p align="center"> 
   <img src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector-1.svg" alt="reactjs" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/>
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="javascript" width="40" height="40"/> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" alt="javascript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
