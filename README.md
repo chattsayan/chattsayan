@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h6cm5weTIxeGRkMDlpdDY0YWhoNDRmdWphemhtM2x0aG4yc3lqdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp">
 
-<img align="left" src="https://komarev.com/ghpvc/?username=coderremo&label=Profile%20views&color=0e75b6&style=flat" alt="coderremo" />
+<p> <img align="left" src="https://komarev.com/ghpvc/?username=coderremo&label=Profile%20views&color=0e75b6&style=flat" alt="coderremo" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 - ❤️ I’m looking to collaborate on Web Application Projects
