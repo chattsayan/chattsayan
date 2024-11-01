@@ -6,9 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderremo&label=Profile%20views&color=0e75b6&style=flat" alt="coderremo" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
-
-- 👨‍💻 All of my projects are available at ([https://github.com/coderRemo](https://github.com/coderRemo?tab=repositories))
-
+- ❤️ I’m looking to collaborate on Web Application Projects
+- 👨‍💻 Feel free to reach out or check my repositories to see my work! ([https://github.com/coderRemo](https://github.com/coderRemo?tab=repositories))
 - 📫 How to reach me **chatterjeesayan730@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
