@@ -27,8 +27,8 @@
 </p>
 
 <div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderremo&show_icons=true&locale=en&layout=compact" alt="coderremo" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderremo&show_icons=true&locale=en" alt="coderremo" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderremo&show_icons=true&locale=en&layout=compact" alt="coderremo" /></p>
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=coderremo&show_icons=true&locale=en" alt="coderremo" /></p>
 </div>
 
 <img src="https://github.com/user-attachments/assets/ea73178c-fa74-4da5-88eb-999a325b0559" alt="" />
