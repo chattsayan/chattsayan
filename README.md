@@ -10,13 +10,13 @@
 - 👨‍💻 Feel free to reach out or check my repositories to see my work! ([https://github.com/coderRemo](https://github.com/coderRemo?tab=repositories))
 - 📫 How to reach me **chatterjeesayan730@gmail.com**
 
-<h3 align="center">💻 Tech Stack</h3>
-<p align="center"> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/sayan-c07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayan-c07/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">💻 Tech Stack</h3>
+<p align="center"> 
   <img src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector-1.svg" alt="reactjs" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
