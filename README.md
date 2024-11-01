@@ -26,8 +26,9 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderremo&show_icons=true&locale=en&layout=compact" alt="coderremo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderremo&show_icons=true&locale=en" alt="coderremo" /></p>
+<div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderremo&show_icons=true&locale=en&layout=compact" alt="coderremo" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderremo&show_icons=true&locale=en" alt="coderremo" /></p>
+</div>
 
 <img src="https://github.com/user-attachments/assets/ea73178c-fa74-4da5-88eb-999a325b0559" alt="" />
