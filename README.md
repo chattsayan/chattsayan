@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="center">💻 Tech Stack</h3>
-<p align="center"> 
+<p align="center" style="gap: 20px;"> 
   <img src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector-1.svg" alt="reactjs" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" alt="javascript" width="40" height="40"/> 
