@@ -30,7 +30,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://hopetutors.com/wp-content/uploads/2017/03/nodejs-logo-1.png" alt="node" width="40" height="40" />
   <img src="https://img.icons8.com/color/512/express-js.png" alt="express" width="40" height="40" />
-  <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="mongoDB" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/NX211/homer-icons/master/svg/mongodb.svg" alt="mongoDB" width="40" height="40" />
 </p>
 
 
