@@ -29,6 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://hopetutors.com/wp-content/uploads/2017/03/nodejs-logo-1.png" alt="node" width="40" height="40" />
+  <img src="https://img.icons8.com/color/512/express-js.png" alt="express" width="40" height="40" />
 </p>
 
 
