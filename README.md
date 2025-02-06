@@ -1,8 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://chattsayan.io)
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h1 align="center" style="margin: 0;">Hello, I am Sayan Chatterjee</h1> 
-  <img src="https://cdn.pixabay.com/animation/2023/05/25/09/35/09-35-39-25_512.gif" width="47">
+  <h1 align="center" style="margin: 0;">Hello, I am Sayan Chatterjee</h1> <span><img src="https://cdn.pixabay.com/animation/2023/05/25/09/35/09-35-39-25_512.gif" width="47"></span>
+  
 </div>
 
 <h3 align="center">A passionate Full-Stack Web Developer</h3>
