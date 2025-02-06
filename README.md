@@ -5,27 +5,23 @@
   <img src="https://cdn.pixabay.com/animation/2023/05/25/09/35/09-35-39-25_512.gif" width="47">
 </h1> 
 
-<h2 align="center">A passionate Full-Stack Web Developer</h2>
+<h3 align="center">A passionate Full-Stack Web Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h6cm5weTIxeGRkMDlpdDY0YWhoNDRmdWphemhtM2x0aG4yc3lqdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp">
 
 - 🌱 I’m currently learning **Full-Stack Web Development**.
 - 🎯 Current Focus: Building scalable web applications with clean, maintainable code.
-- 🏆 Achievements: Certified in **ReactJS**.
 - 👨‍💻 Feel free to check my <a href="https://github.com/chattsayan?tab=repositories" target="blank">Repositories</a> to see my work!
-- 🤝 Collaboration: Open to working on **open-source projects**, **hackathons**, and freelance opportunities.
+- 🤝 Collaboration: Open to working on **open-source projects** and freelance opportunities.
 
-### 💬 Connect with me:
-<p align"left">
+- <p>
+  💬 <strong>Connect with me:</strong>
   <a href="https://linkedin.com/in/sayan-c07/" target="blank">
     <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin-logo" height="40" />
   </a>
-  <a href="mailto:chatterjeesayan730@gmail.com" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="email-logo" height="40" />
-  </a>
 </p>
 
-<h3 align="center">💻 Tech Stack</h3>
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center" style="margin: 20px 0; gap: 5px;"> 
   <img src="https://www.svgrepo.com/show/354259/react.svg" alt="reactjs" height="50"/>
