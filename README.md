@@ -16,7 +16,7 @@
 - 🤝 Collaboration: Open to working on **open-source projects**, **hackathons**, and freelance opportunities.
 
 ### 💬 Connect with me:
-<p style="display: inline-flex; align-items: center; gap: 10px;">
+<p align"left">
   <a href="https://linkedin.com/in/sayan-c07/" target="blank">
     <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin-logo" height="40" />
   </a>
