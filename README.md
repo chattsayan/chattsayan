@@ -9,15 +9,16 @@
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h6cm5weTIxeGRkMDlpdDY0YWhoNDRmdWphemhtM2x0aG4yc3lqdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp">
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 I’m currently learning **Full-Stack Web Development**.
 - 🎯 Current Focus: Building scalable web applications with clean, maintainable code.
-- 🏆 Achievements: Certified in ReactJS & Full Stack Web Development from IITM Pravartak.
+- 🏆 Achievements: Certified in **ReactJS** & **Full Stack Web Development**.
 - 👨‍💻 Feel free to check my <a href="https://github.com/chattsayan?tab=repositories" target="blank">Repositories</a> to see my work!
+- 🤝 Collaboration: Open to working on **open-source projects**, **hackathons**, and freelance opportunities.
 
 ### 💬 Connect with me:
 
-<p align="left">
-  <a href="https://linkedin.com/in/sayan-c07/" target="blank">
+<p style="display: inline-flex; align-items: center; gap: 10px;">
+  <a href="https://linkedin.com/in/sayan-c07/" target="_blank">
     <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="https://www.linkedin.com/in/sayan-c07/" height="40" /></a>
 </p>
 <br/>
@@ -46,5 +47,5 @@
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chattsayan&show_icons=true&locale=en&layout=compact" alt="chattsayan" /></p>
 </div>
 
-<p> <img align="left" src="https://komarev.com/ghpvc/?username=chattsayan&label=Profile%20views&color=0e75b6&style=flat" alt="chattsayan" /> </p></br></br>
+<p> <img align="left" src="https://komarev.com/ghpvc/?username=chattsayan&label=Profile%20views&color=0e75b6&style=flat" alt="chattsayan" /> </p></br>
 <img src="https://github.com/user-attachments/assets/ea73178c-fa74-4da5-88eb-999a325b0559" alt="" />
