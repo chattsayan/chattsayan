@@ -1,5 +1,10 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://chattsayan.io)
-<h1 align="center">Hello, I am Sayan Chatterjee</h1> <img src="https://cdn.pixabay.com/animation/2023/05/25/09/35/09-35-39-25_512.gif" width="47"> 
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <h1 style="margin: 0;">Hello, I am Sayan Chatterjee</h1> 
+  <img src="https://cdn.pixabay.com/animation/2023/05/25/09/35/09-35-39-25_512.gif" width="47">
+</div>
+
 <h3 align="center">A passionate Full-Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h6cm5weTIxeGRkMDlpdDY0YWhoNDRmdWphemhtM2x0aG4yc3lqdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp">
 
