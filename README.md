@@ -20,10 +20,10 @@
 <p align="center" style="margin: 20px 0;"> 
   <img src="https://www.svgrepo.com/show/354259/react.svg" alt="reactjs" height="40"/>
   <img src="https://www.svgrepo.com/show/452093/redux.svg" alt="redux" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQckBwdkFhUDEqfrZNq05JfWGtrj69tDEOsgQ&s" alt="css3" width="40" height="40"/> 
-  <img src="https://www.drupal.org/files/project-images/screenshot_361.png" alt="tailwind-css" width="40" height="40"/> 
+  <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" height="40"/> 
+  <img src="https://www.svgrepo.com/show/373669/html.svg" alt="html5" height="40"/>
+  <img src="https://www.svgrepo.com/show/373535/css.svg" alt="css3" height="40"/> 
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind-css" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="bootstrap" width="50" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
