@@ -17,19 +17,19 @@
 
 <h3 align="center">💻 Tech Stack</h3>
 <hr/>
-<p align="center" style="margin: 20px 0;"> 
+<p align="center" style="margin: 20px 0; gap: 5px;"> 
   <img src="https://www.svgrepo.com/show/354259/react.svg" alt="reactjs" height="50"/>
-  <img src="https://www.svgrepo.com/show/452093/redux.svg" alt="redux" height="40"/>
-  <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" height="40"/> 
-  <img src="https://www.svgrepo.com/show/373669/html.svg" alt="html5" height="40"/>
-  <img src="https://www.svgrepo.com/show/373535/css.svg" alt="css3" height="40"/> 
-  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind-css" height="40"/> 
-  <img src="https://www.svgrepo.com/show/378490/bootstrap-fill.svg" alt="bootstrap" height="40"/> 
-  <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="node" height="40" />
-  <img src="https://www.svgrepo.com/show/330398/express.svg" alt="express" height="40" />
-  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongoDB" height="40" />
-  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" height="40"/> 
-  <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" height="40"/> 
+  <img src="https://www.svgrepo.com/show/452093/redux.svg" alt="redux" height="50"/>
+  <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" height="50"/> 
+  <img src="https://www.svgrepo.com/show/373669/html.svg" alt="html5" height="50"/>
+  <img src="https://www.svgrepo.com/show/373535/css.svg" alt="css3" height="50"/> 
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind-css" height="50"/> 
+  <img src="https://www.svgrepo.com/show/378490/bootstrap-fill.svg" alt="bootstrap" height="50"/> 
+  <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="node" height="50" />
+  <img src="https://www.svgrepo.com/show/330398/express.svg" alt="express" height="50" />
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongoDB" height="50" />
+  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" height="50"/> 
+  <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" height="50"/> 
 </p>
 
 
