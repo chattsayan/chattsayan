@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 - ❤️ I’m looking to collaborate on Web Application Projects
-- 👨‍💻 Feel free to reach out or check my repositories to see my work! ([https://github.com/chattsayan](https://github.com/chattsayan?tab=repositories))
+- 👨‍💻 Feel free to check my repositories to see my work! ([https://github.com/chattsayan](https://github.com/chattsayan?tab=repositories))
 
 <h3 align="left">Connect with me:</h3>
 
@@ -35,7 +35,7 @@
 
 <div align="center">
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=chattsayan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chattsayan&show_icons=true&locale=en&layout=compact" alt="chattsayan" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chattsayan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /></p>
 </div>
 
 <p> <img align="left" src="https://komarev.com/ghpvc/?username=chattsayan&label=Profile%20views&color=0e75b6&style=flat" alt="chattsayan" /> </p></br></br>
