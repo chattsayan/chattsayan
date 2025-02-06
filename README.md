@@ -3,8 +3,6 @@
 <h3 align="center">A passionate Full-Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h6cm5weTIxeGRkMDlpdDY0YWhoNDRmdWphemhtM2x0aG4yc3lqdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp">
 
-<p> <img align="left" src="https://komarev.com/ghpvc/?username=chattsayan&label=Profile%20views&color=0e75b6&style=flat" alt="chattsayan" /> </p></br></br>
-
 - 🌱 I’m currently learning **Full Stack Web Development**
 - ❤️ I’m looking to collaborate on Web Application Projects
 - 👨‍💻 Feel free to reach out or check my repositories to see my work! ([https://github.com/chattsayan](https://github.com/chattsayan?tab=repositories))
@@ -37,5 +35,7 @@
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=chattsayan&show_icons=true&locale=en" alt="chattsayan" /></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chattsayan&show_icons=true&locale=en&layout=compact" alt="chattsayan" /></p>
 </div>
+
+<p> <img align="left" src="https://komarev.com/ghpvc/?username=chattsayan&label=Profile%20views&color=0e75b6&style=flat" alt="chattsayan" /> </p></br></br>
 
 <img src="https://github.com/user-attachments/assets/ea73178c-fa74-4da5-88eb-999a325b0559" alt="" />
