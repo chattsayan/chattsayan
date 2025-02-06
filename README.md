@@ -32,10 +32,9 @@
 
 
 <div align="center">
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=chattsayan&show_icons=true&locale=en" alt="chattsayan" /></p>
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=chattsayan&show_icons=true&include_all_commits=true&count_private=true&locale=en" alt="chattsayan" /></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chattsayan&show_icons=true&locale=en&layout=compact" alt="chattsayan" /></p>
 </div>
 
 <p> <img align="left" src="https://komarev.com/ghpvc/?username=chattsayan&label=Profile%20views&color=0e75b6&style=flat" alt="chattsayan" /> </p></br></br>
-
 <img src="https://github.com/user-attachments/assets/ea73178c-fa74-4da5-88eb-999a325b0559" alt="" />
