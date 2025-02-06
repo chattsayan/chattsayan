@@ -9,9 +9,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h6cm5weTIxeGRkMDlpdDY0YWhoNDRmdWphemhtM2x0aG4yc3lqdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp">
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-- ❤️ I’m looking to collaborate on Web Application Projects
-- 👨‍💻 Feel free to check my repositories to see my work! ([https://github.com/chattsayan](https://github.com/chattsayan?tab=repositories))
+- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🎯 Current Focus: Building scalable web applications with clean, maintainable code.
+- 🏆 Achievements: Certified in ReactJS & Full Stack Web Development from IITM Pravartak.
+- 👨‍💻 Feel free to check my <a href="https://github.com/chattsayan?tab=repositories" target="blank">Repositories</a> to see my work!
 
 ### 💬 Connect with me:
 
