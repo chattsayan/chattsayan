@@ -19,7 +19,7 @@
 <hr/>
 <p align="center" style="margin: 20px 0;"> 
   <img src="https://www.svgrepo.com/show/354259/react.svg" alt="reactjs" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/>
+  <img src="[https://cdn.worldvectorlogo.com/logos/redux.svg](https://www.svgrepo.com/show/452093/redux.svg)" alt="redux" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" alt="javascript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQckBwdkFhUDEqfrZNq05JfWGtrj69tDEOsgQ&s" alt="css3" width="40" height="40"/> 
