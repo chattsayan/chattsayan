@@ -13,19 +13,12 @@
 - ❤️ I’m looking to collaborate on Web Application Projects
 - 👨‍💻 Feel free to check my repositories to see my work! ([https://github.com/chattsayan](https://github.com/chattsayan?tab=repositories))
 
----
-
 ### 💬 Connect with me:
 
 <p align="left">
   <a href="https://linkedin.com/in/sayan-c07/" target="blank">
     <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="https://www.linkedin.com/in/sayan-c07/" height="40" /></a>
 </p>
-
----
-
-
-
 <br/>
 
 <h3 align="center">💻 Tech Stack</h3>
