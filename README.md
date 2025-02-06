@@ -24,12 +24,12 @@
   <img src="https://www.svgrepo.com/show/373669/html.svg" alt="html5" height="40"/>
   <img src="https://www.svgrepo.com/show/373535/css.svg" alt="css3" height="40"/> 
   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind-css" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="bootstrap" width="50" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://hopetutors.com/wp-content/uploads/2017/03/nodejs-logo-1.png" alt="node" width="40" height="40" />
-  <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/NX211/homer-icons/master/svg/mongodb.svg" alt="mongoDB" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/378490/bootstrap-fill.svg" alt="bootstrap" height="40"/> 
+  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" height="40"/> 
+  <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" height="40"/> 
+  <img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="node" height="40" />
+  <img src="https://www.svgrepo.com/show/330398/express.svg" alt="express" height="40" />
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongoDB" height="40" />
 </p>
 
 
