@@ -16,12 +16,10 @@
 - 🤝 Collaboration: Open to working on **open-source projects**, **hackathons**, and freelance opportunities.
 
 ### 💬 Connect with me:
-
 <p style="display: inline-flex; align-items: center; gap: 10px;">
   <a href="https://linkedin.com/in/sayan-c07/" target="_blank">
     <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="https://www.linkedin.com/in/sayan-c07/" height="40" /></a>
 </p>
-<br/>
 
 <h3 align="center">💻 Tech Stack</h3>
 <hr/>
@@ -47,5 +45,5 @@
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chattsayan&show_icons=true&locale=en&layout=compact" alt="chattsayan" /></p>
 </div>
 
-<p> <img align="left" src="https://komarev.com/ghpvc/?username=chattsayan&label=Profile%20views&color=0e75b6&style=flat" alt="chattsayan" /> </p></br>
+<p> <img align="left" src="https://komarev.com/ghpvc/?username=chattsayan&label=Profile%20views&color=0e75b6&style=flat" alt="chattsayan" /> </p>
 <img src="https://github.com/user-attachments/assets/ea73178c-fa74-4da5-88eb-999a325b0559" alt="" />
