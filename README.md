@@ -19,6 +19,12 @@
   <a href="https://linkedin.com/in/sayan-c07/" target="blank">
     <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin-logo" height="40" />
   </a>
+  <!-- TODO: Add more social media links here -->
+  <!--
+  <a href="mailto:your-email@example.com" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="email-logo" height="40" />
+  </a>
+  -->
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
@@ -37,12 +43,12 @@
   <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" height="50"/> 
   <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" height="50"/> 
 </p>
-
+</br>
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api?username=chattsayan&show_icons=true&locale=en" alt="chattsayan" /></p>
+  <!-- <p><img src="https://github-readme-stats.vercel.app/api?username=chattsayan&show_icons=true&locale=en" alt="chattsayan" /></p> -->
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chattsayan&show_icons=true&locale=en&layout=compact" alt="chattsayan" /></p>
 </div>
 
-<p> <img align="left" src="https://komarev.com/ghpvc/?username=chattsayan&label=Profile%20views&color=0e75b6&style=flat" alt="chattsayan" /> </p>
+<!-- <p> <img align="left" src="https://komarev.com/ghpvc/?username=chattsayan&label=Profile%20views&color=0e75b6&style=flat" alt="chattsayan" /> </p> -->
 <img src="https://github.com/user-attachments/assets/ea73178c-fa74-4da5-88eb-999a325b0559" alt="" />
