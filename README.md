@@ -26,7 +26,6 @@
 </p>
 
 <h3 align="center">💻 Tech Stack</h3>
-<hr/>
 
 <p align="center" style="margin: 20px 0; gap: 5px;"> 
   <img src="https://www.svgrepo.com/show/354259/react.svg" alt="reactjs" height="50"/>
