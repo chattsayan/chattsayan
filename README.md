@@ -18,10 +18,10 @@
 ### 💬 Connect with me:
 <p style="display: inline-flex; align-items: center; gap: 10px;">
   <a href="https://linkedin.com/in/sayan-c07/" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="https://www.linkedin.com/in/sayan-c07/" height="40" />
+    <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin-logo" height="40" />
   </a>
-  <a href="mailto:chatterjeesayan730@example.com" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="https://www.linkedin.com/in/sayan-c07/" height="40" />
+  <a href="mailto:chatterjeesayan730@gmail.com" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="email-logo" height="40" />
   </a>
 </p>
 
