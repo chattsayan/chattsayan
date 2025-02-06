@@ -18,7 +18,7 @@
 <h3 align="center">💻 Tech Stack</h3>
 <hr/>
 <p align="center" style="margin: 20px 0;"> 
-  <img src="https://www.svgrepo.com/show/354259/react.svg" alt="reactjs" height="45"/>
+  <img src="https://www.svgrepo.com/show/354259/react.svg" alt="reactjs" height="50"/>
   <img src="https://www.svgrepo.com/show/452093/redux.svg" alt="redux" height="40"/>
   <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" height="40"/> 
   <img src="https://www.svgrepo.com/show/373669/html.svg" alt="html5" height="40"/>
