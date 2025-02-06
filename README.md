@@ -1,27 +1,36 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://chattsayan.io)
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h1 align="center" style="margin: 0;">Hello, I am Sayan Chatterjee</h1> <span><img src="https://cdn.pixabay.com/animation/2023/05/25/09/35/09-35-39-25_512.gif" width="47"></span>
-  
-</div>
+<h1 align="center">
+  Hello, I am Sayan Chatterjee 
+  <img src="https://cdn.pixabay.com/animation/2023/05/25/09/35/09-35-39-25_512.gif" width="47">
+</h1> 
 
 <h3 align="center">A passionate Full-Stack Web Developer</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h6cm5weTIxeGRkMDlpdDY0YWhoNDRmdWphemhtM2x0aG4yc3lqdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp">
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 - ❤️ I’m looking to collaborate on Web Application Projects
 - 👨‍💻 Feel free to check my repositories to see my work! ([https://github.com/chattsayan](https://github.com/chattsayan?tab=repositories))
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 💬 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sayan-c07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayan-c07/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sayan-c07/" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="https://www.linkedin.com/in/sayan-c07/" height="40" /></a>
 </p>
+
+---
+
+
 
 <br/>
 
 <h3 align="center">💻 Tech Stack</h3>
 <hr/>
+
 <p align="center" style="margin: 20px 0; gap: 5px;"> 
   <img src="https://www.svgrepo.com/show/354259/react.svg" alt="reactjs" height="50"/>
   <img src="https://www.svgrepo.com/show/452093/redux.svg" alt="redux" height="50"/>
