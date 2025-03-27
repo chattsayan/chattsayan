@@ -33,6 +33,7 @@
   <img src="https://www.svgrepo.com/show/354259/react.svg" alt="reactjs" height="50"/>
   <img src="https://www.svgrepo.com/show/452093/redux.svg" alt="redux" height="50"/>
   <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" height="50"/> 
+  <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="javascript" height="50"/> 
   <img src="https://www.svgrepo.com/show/373669/html.svg" alt="html5" height="50"/>
   <img src="https://www.svgrepo.com/show/373535/css.svg" alt="css3" height="50"/> 
   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind-css" height="50"/> 
