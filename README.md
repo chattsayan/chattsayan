@@ -37,9 +37,9 @@
   <img src="https://www.svgrepo.com/show/373669/html.svg" alt="html5" height="50"/>
   <img src="https://www.svgrepo.com/show/373535/css.svg" alt="css3" height="50"/> 
   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind-css" height="50"/> 
-  <img src="https://www.svgrepo.com/show/378490/bootstrap-fill.svg" alt="bootstrap" height="50"/> 
+  <img src="https://github.com/user-attachments/assets/775e2b9d-e94e-42f0-b01e-117f342d21ed" alt="bootstrap" height="50" /> 
   <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="node" height="50" />
-  <img src="https://www.svgrepo.com/show/330398/express.svg" alt="express" height="50" />
+  <img src="https://github.com/user-attachments/assets/91d0a91d-35aa-4b8f-b71a-782aaa989d3a" alt="express" height="50" />
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongoDB" height="50" />
   <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" height="50"/> 
   <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" height="50"/> 
