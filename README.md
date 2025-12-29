@@ -5,14 +5,14 @@
   <img src="https://cdn.pixabay.com/animation/2023/05/25/09/35/09-35-39-25_512.gif" width="47">
 </h1> 
 
-<h3 align="center">A passionate Full-Stack Web Developer</h3>
+<h3 align="center">Full-Stack Web Developer | React & MERN Specialist</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h6cm5weTIxeGRkMDlpdDY0YWhoNDRmdWphemhtM2x0aG4yc3lqdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp">
 
-- 🌱 I’m currently learning **Full-Stack Web Development**.
-- 🎯 Current Focus: Building scalable web applications with clean, maintainable code.
-- 👨‍💻 Feel free to check my <a href="https://github.com/chattsayan?tab=repositories" target="blank">Repositories</a> to see my work!
-- 🤝 Collaboration: Open to working on **open-source projects** and freelance opportunities.
+- 💻 Full-Stack Developer with strong focus on **React, Redux & modern JavaScript**
+- 🌱 Currently improving skills in **scalable system design & backend architecture**
+- 🎯 Passionate about writing **clean, maintainable, and accessible UI code**
+- 🤝 Open to **open-source contributions**, freelance work, and collaboration
 
 - <p>
   💬 <strong>Connect with me:</strong>
@@ -27,10 +27,11 @@
   -->
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">🧰 Tech Stack</h2>
 
 <p align="center" style="margin: 20px 0; gap: 5px;"> 
   <img src="https://www.svgrepo.com/show/354259/react.svg" alt="reactjs" height="50"/>
+  <img src="https://www.svgrepo.com/show/342062/next-js.svg" alt="nextjs" height="50"/> 
   <img src="https://www.svgrepo.com/show/452093/redux.svg" alt="redux" height="50"/>
   <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" height="50"/> 
   <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="javascript" height="50"/> 
@@ -48,8 +49,10 @@
 
 <div align="center">
   <!-- <p><img src="https://github-readme-stats.vercel.app/api?username=chattsayan&show_icons=true&locale=en" alt="chattsayan" /></p> -->
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chattsayan&show_icons=true&locale=en&layout=compact" alt="chattsayan" /></p>
+  <p>&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chattsayan&theme=default" alt="chattsayan" /></p>
 </div>
+
+<p align="center">⭐️ *If you like my work, consider starring a repository or connecting with me on LinkedIn.*</p>
 
 <!-- <p> <img align="left" src="https://komarev.com/ghpvc/?username=chattsayan&label=Profile%20views&color=0e75b6&style=flat" alt="chattsayan" /> </p> -->
 <img src="https://github.com/user-attachments/assets/ea73178c-fa74-4da5-88eb-999a325b0559" alt="" />
