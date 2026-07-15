@@ -47,7 +47,6 @@
   <img src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="git" height="50"/> 
   <img src="https://www.svgrepo.com/show/473527/amazonaws.svg" alt="git" height="50"/> 
   <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="git" height="50"/> 
-  <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="git" height="50"/> 
 </p>
 </br>
 
